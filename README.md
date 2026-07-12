@@ -8,6 +8,5 @@ Outils et méthodes d'IA appliquée pour les **PME de Suisse romande** — utile
 
 ## Principes
 
-- **Souveraineté** — traitement et hébergement en Suisse (Infomaniak, Exoscale) ; aucun sous-traitant hors CH pour les données sensibles.
 - **Conformité** — nLPD, LEg (rédaction inclusive h/f/d), CO/LTr intégrés aux livrables.
 - **Sobriété** — pas de promesse magique : toute donnée manquante reste un marqueur visible, et la validation humaine est rappelée sur les livrables sensibles.
